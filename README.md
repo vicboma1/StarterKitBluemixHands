@@ -1,14 +1,20 @@
 # Starter Kit Bluemix Hands
 Proyecto scratching para el testeo de la plataforma Node-Red con Kinect
 
-![](https://github.com/vicboma1/StarterKitBluemixHands/blob/master/assets/_starterKitBluemixHands.png)
+### Esquema Node-RED
 
+![](https://github.com/vicboma1/StarterKitBluemixHands/blob/master/assets/_starterKitBluemixHands.png)
 
 La solución se basa en un esquema que representa todas los puntos del Body del/los usuario/s que se capturan con la kinect.
 Se ha añadido componentes de tipo "Plot" para representar datos aleatorios.
 Adicionalmente, carga una libería de sonido dinámicamente a través de un componente "template".
 
+### Node-RED Dashboard
 ![](https://github.com/vicboma1/StarterKitBluemixHands/blob/master/assets/_starterKitBluemixHands.gif)
+
+### Kinect
+![](https://github.com/vicboma1/StarterKitBluemixHands/blob/master/assets/_starterKitBluemixBodyParts.gif)
+
 
 ## Pasos a seguir
 1.   Copiar la ![Plantilla txt](https://raw.githubusercontent.com/vicboma1/StarterKitBluemixHands/master/assets/_starterKitBluemixHands.txt) con "Control A" + "Control C"
