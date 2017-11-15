@@ -12,7 +12,7 @@ Adicionalmente, carga una libería de sonido dinámicamente a través de un comp
 ### Node-RED Dashboard
 ![](https://github.com/vicboma1/StarterKitBluemixHands/blob/master/assets/_starterKitBluemixHands.gif)
 
-### Kinect
+### Kinect Studio Application Windows
 ![](https://github.com/vicboma1/StarterKitBluemixHands/blob/master/assets/_starterKitBluemixBodyParts.gif)
 
 
